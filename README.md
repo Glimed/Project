@@ -1,3 +1,3 @@
 # whoami
 
-no idea what im doing
+I'll figure this out one day
